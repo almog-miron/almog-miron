@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Almog Miron
 
-🎯 **Junior Product Manager** | 🧠 Neuroscience MSc | 💻 Front-End Developer  
-Building user-centered products with curiosity, clarity, and code.
+📊 **Data & Product Analyst** | 🧠 Neuroscience MSc | 💻 Builder of User-Centered Tools  
+Solving real-world problems through data, research, and thoughtful product thinking.
 
 ---
 
 ## 🚀 About Me
 
-I'm a product-minded builder with a unique blend of academic research, data analysis, and front-end development experience. My background in neuroscience research taught me how to turn complex questions into actionable insights — a skill I now apply to creating intuitive digital products.
+I'm a research-driven problem solver with a background in neuroscience, data analysis, and front-end development. Whether it's turning complex datasets into insights or building digital tools, I’m passionate about understanding user needs and delivering practical solutions — across product, research, and business contexts.
 
 ---
 
 ## 🔧 Tools & Technologies
 
 **Product & Research**  
-- Agile, MVP design, KPI definition, User interviews  
-- Roadmapping, Feature prioritization, Competitive analysis
+- MVP design, KPI definition, Agile workflows  
+- User interviews, Feature planning, Market analysis
 
 **Frontend & Full-Stack**  
 - React.js, TailwindCSS, JavaScript  
@@ -23,8 +23,8 @@ I'm a product-minded builder with a unique blend of academic research, data anal
 - Git, Cursor IDE, OpenAI API  
 
 **Data & Analysis**  
-- SQL, Excel
-- MATLAB, NumPy, Pandas, Statistical Modeling
+- SQL, Excel  
+- MATLAB, NumPy, Pandas, Statistical Testing
 
 ---
 
@@ -32,17 +32,17 @@ I'm a product-minded builder with a unique blend of academic research, data anal
 
 ### 🥗 [Guaco](https://github.com/ellie-yehuda/guaco)  
 *AI-powered nutrition coach*  
-- React + FastAPI full-stack build  
-- OpenAI meal plan generation, real-time nutrition breakdown  
+- Full-stack app using React + FastAPI  
+- OpenAI-generated meal plans with real-time nutritional breakdown  
 
 <details>
   <summary>Click to view more projects</summary>
 
 ### 📊 Neuroscience Research Toolkit  
-MATLAB-based analysis scripts for multi-electrode neural recordings, with signal processing and visualizations.
+MATLAB-based signal processing scripts for analyzing multi-electrode neural recordings.
 
 ### 📋 Psychometric Survey MVP  
-Online platform built for a cognitive science study, including validated survey logic, data collection, and participant flow.
+A web-based cognitive research tool, built for data collection and participant tracking.
 
 </details>
 
