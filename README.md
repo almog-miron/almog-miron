@@ -19,12 +19,13 @@ I'm a research-driven problem solver with a background in neuroscience, data ana
 
 **Frontend & Full-Stack**  
 - React.js, TailwindCSS, JavaScript  
-- Python, FastAPI  
+- Python, FastAPI
+- C, C++, Java
 - Git, Cursor IDE, OpenAI API  
 
 **Data & Analysis**  
 - SQL, Excel  
-- MATLAB, NumPy, Pandas, Statistical Testing
+- MATLAB, R, NumPy, Pandas, Statistical Testing
 
 ---
 
@@ -50,4 +51,5 @@ A web-based cognitive research tool, built for data collection and participant t
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/almog-miron-7b3337281/)
+- 💼 [
+LinkedIn](https://www.linkedin.com/in/almog-miron-7b3337281/)
