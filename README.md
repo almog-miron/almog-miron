@@ -38,11 +38,11 @@ I’m passionate about understanding user needs and delivering practical solutio
 - Full-stack app using React + FastAPI  
 - OpenAI-generated meal plans with real-time nutritional breakdown  
 
-<details>
-  <summary>Click to view more projects</summary>
-
 ### 📊 [Neuroscience Research Toolkit & ML projects](https://github.com/almog-miron/DataProjects)
 MATLAB-based signal processing scripts for analyzing multi-electrode neural recordings.
+
+<details>
+  <summary>Click to view more projects</summary>
 
 ### 📋 Psychometric Survey MVP  
 A web-based cognitive research tool, built for data collection and participant tracking.
