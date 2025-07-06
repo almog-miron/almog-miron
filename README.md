@@ -1,13 +1,15 @@
 # 👋 Hi, I'm Almog Miron
 
-📊 **Data & Product Analyst** | 🧠 Neuroscience MSc | 💻 Builder of User-Centered Tools  
+🧠 Neuroscience MSc | 💻 Builder of User-Centered Tools  
 Solving real-world problems through data, research, and thoughtful product thinking.
 
 ---
 
 ## 🚀 About Me
 
-I'm a research-driven problem solver with a background in neuroscience, data analysis, and front-end development. Whether it's turning complex datasets into insights or building digital tools, I’m passionate about understanding user needs and delivering practical solutions — across product, research, and business contexts.
+I'm a research-driven problem solver with a background in neuroscience, data analysis, and front-end development. 
+Whether it's turning complex datasets into insights or building digital tools,
+I’m passionate about understanding user needs and delivering practical solutions across product, research, and business contexts.
 
 ---
 
@@ -19,12 +21,12 @@ I'm a research-driven problem solver with a background in neuroscience, data ana
 
 **Frontend & Full-Stack**  
 - React.js, TailwindCSS, JavaScript  
-- Python, FastAPI
+- Python, FastAPI, JupyterLab
 - C, C++, Java
 - Git, Cursor IDE, OpenAI API  
 
 **Data & Analysis**  
-- SQL, Excel  
+- SQL, Excel, PowerBI
 - MATLAB, R, NumPy, Pandas, Statistical Testing
 
 ---
@@ -39,7 +41,7 @@ I'm a research-driven problem solver with a background in neuroscience, data ana
 <details>
   <summary>Click to view more projects</summary>
 
-### 📊 Neuroscience Research Toolkit  
+### 📊 Neuroscience Research Toolkit  & ML projects
 MATLAB-based signal processing scripts for analyzing multi-electrode neural recordings.
 
 ### 📋 Psychometric Survey MVP  
