@@ -41,7 +41,7 @@ I’m passionate about understanding user needs and delivering practical solutio
 <details>
   <summary>Click to view more projects</summary>
 
-### 📊 Neuroscience Research Toolkit  & ML projects (https://github.com/almog-miron/DataProjects)
+### 📊 [Neuroscience Research Toolkit & ML projects](https://github.com/almog-miron/DataProjects)
 MATLAB-based signal processing scripts for analyzing multi-electrode neural recordings.
 
 ### 📋 Psychometric Survey MVP  
