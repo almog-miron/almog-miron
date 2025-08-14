@@ -33,6 +33,11 @@ I’m passionate about understanding user needs and delivering practical solutio
 
 ## 🛠 Featured Projects
 
+### [Data Analysis Projects](https://github.com/almog-miron/DataAnalysisProjects)
+- Designed interactive dashboards to track KPIs and visualize trends using Power BI.
+- Wrote optimized SQL queries for data extraction, transformation, and aggregation.
+- Focused on data quality, usability, and actionable insights for decision-making.
+
 ### 🥗 [Guaco](https://github.com/ellie-yehuda/guaco)  
 *AI-powered nutrition coach*  
 - Full-stack app using React + FastAPI  
